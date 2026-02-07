@@ -1,4 +1,0 @@
-[console_scripts]
-movePetri = last_scara_arm.movePetri:main
-movingaparatus = last_scara_arm.movingaparatus:main
-petriDishMover = last_scara_arm.petriDishMover:main
