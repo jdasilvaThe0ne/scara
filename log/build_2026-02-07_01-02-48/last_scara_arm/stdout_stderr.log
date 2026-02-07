@@ -1,0 +1,31 @@
+running egg_info
+writing ../../build/last_scara_arm/last_scara_arm.egg-info/PKG-INFO
+writing dependency_links to ../../build/last_scara_arm/last_scara_arm.egg-info/dependency_links.txt
+writing entry points to ../../build/last_scara_arm/last_scara_arm.egg-info/entry_points.txt
+writing requirements to ../../build/last_scara_arm/last_scara_arm.egg-info/requires.txt
+writing top-level names to ../../build/last_scara_arm/last_scara_arm.egg-info/top_level.txt
+reading manifest file '../../build/last_scara_arm/last_scara_arm.egg-info/SOURCES.txt'
+writing manifest file '../../build/last_scara_arm/last_scara_arm.egg-info/SOURCES.txt'
+running build
+running build_py
+copying last_scara_arm/petriDishMover.py -> /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm
+running install
+running install_lib
+copying /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm/petriDishMover.py -> /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm
+byte-compiling /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm/petriDishMover.py to petriDishMover.cpython-312.pyc
+running install_data
+creating /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm/launch
+copying launch/spawn_scara.launch.py -> /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm/launch
+creating /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm/urdf
+copying urdf/scara_controllers.yml -> /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm/urdf
+copying urdf/scara.urdf.xacro -> /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm/urdf
+creating /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm/world
+copying world/lab_world.sdf -> /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm/world
+running install_egg_info
+removing '/home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/last_scara_arm/last_scara_arm.egg-info to /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm-0.0.0-py3.12.egg-info
+running install_scripts
+Installing movePetri script to /home/justinodasilva/arm/install/last_scara_arm/lib/last_scara_arm
+Installing movingaparatus script to /home/justinodasilva/arm/install/last_scara_arm/lib/last_scara_arm
+Installing petriDishMover script to /home/justinodasilva/arm/install/last_scara_arm/lib/last_scara_arm
+writing list of installed files to '/home/justinodasilva/arm/build/last_scara_arm/install.log'

@@ -1,0 +1,38 @@
+[0.788s] Invoking command in '/home/justinodasilva/arm/src/last_scara_arm': PYTHONPATH=/home/justinodasilva/arm/build/last_scara_arm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/last_scara_arm build --build-base /home/justinodasilva/arm/build/last_scara_arm/build install --record /home/justinodasilva/arm/build/last_scara_arm/install.log --single-version-externally-managed install_data
+[0.930s] running egg_info
+[0.931s] creating ../../build/last_scara_arm/last_scara_arm.egg-info
+[0.940s] writing ../../build/last_scara_arm/last_scara_arm.egg-info/PKG-INFO
+[0.941s] writing dependency_links to ../../build/last_scara_arm/last_scara_arm.egg-info/dependency_links.txt
+[0.942s] writing requirements to ../../build/last_scara_arm/last_scara_arm.egg-info/requires.txt
+[0.942s] writing top-level names to ../../build/last_scara_arm/last_scara_arm.egg-info/top_level.txt
+[0.942s] writing manifest file '../../build/last_scara_arm/last_scara_arm.egg-info/SOURCES.txt'
+[0.959s] reading manifest file '../../build/last_scara_arm/last_scara_arm.egg-info/SOURCES.txt'
+[0.959s] writing manifest file '../../build/last_scara_arm/last_scara_arm.egg-info/SOURCES.txt'
+[0.960s] running build
+[0.960s] running build_py
+[0.960s] creating /home/justinodasilva/arm/build/last_scara_arm/build
+[0.960s] creating /home/justinodasilva/arm/build/last_scara_arm/build/lib
+[0.960s] creating /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm
+[0.960s] copying last_scara_arm/__init__.py -> /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm
+[0.960s] copying last_scara_arm/movingaparatus.py -> /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm
+[0.961s] copying last_scara_arm/movePetri.py -> /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm
+[0.961s] running install
+[0.964s] running install_lib
+[0.974s] creating /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm
+[0.974s] copying /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm/__init__.py -> /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm
+[0.974s] copying /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm/movingaparatus.py -> /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm
+[0.974s] copying /home/justinodasilva/arm/build/last_scara_arm/build/lib/last_scara_arm/movePetri.py -> /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm
+[0.974s] byte-compiling /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm/__init__.py to __init__.cpython-312.pyc
+[0.975s] byte-compiling /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm/movingaparatus.py to movingaparatus.cpython-312.pyc
+[0.975s] byte-compiling /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm/movePetri.py to movePetri.cpython-312.pyc
+[0.975s] running install_data
+[0.975s] creating /home/justinodasilva/arm/install/last_scara_arm/share/ament_index
+[0.975s] creating /home/justinodasilva/arm/install/last_scara_arm/share/ament_index/resource_index
+[0.976s] creating /home/justinodasilva/arm/install/last_scara_arm/share/ament_index/resource_index/packages
+[0.976s] copying resource/last_scara_arm -> /home/justinodasilva/arm/install/last_scara_arm/share/ament_index/resource_index/packages
+[0.976s] copying package.xml -> /home/justinodasilva/arm/install/last_scara_arm/share/last_scara_arm
+[0.976s] running install_egg_info
+[0.986s] Copying ../../build/last_scara_arm/last_scara_arm.egg-info to /home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages/last_scara_arm-0.0.0-py3.12.egg-info
+[0.986s] running install_scripts
+[1.053s] writing list of installed files to '/home/justinodasilva/arm/build/last_scara_arm/install.log'
+[1.071s] Invoked command in '/home/justinodasilva/arm/src/last_scara_arm' returned '0': PYTHONPATH=/home/justinodasilva/arm/build/last_scara_arm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/justinodasilva/arm/install/last_scara_arm/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/last_scara_arm build --build-base /home/justinodasilva/arm/build/last_scara_arm/build install --record /home/justinodasilva/arm/build/last_scara_arm/install.log --single-version-externally-managed install_data
