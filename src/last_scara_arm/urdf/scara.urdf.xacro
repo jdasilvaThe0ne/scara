@@ -392,7 +392,7 @@
   <plugin filename="gz_ros2_control-system" name="gz_ros2_control::GazeboSimROS2ControlPlugin">
     <!--name="gz_ros2_control::GazeboSimSystem"-->
     <parameters>
-      /home/justinodasilva/arm/src/last_scara_arm/urdf/scara_controllers.yml
+      <path>/src/last_scara_arm/urdf/scara_controllers.yml
     </parameters>
   </plugin>
 </gazebo>

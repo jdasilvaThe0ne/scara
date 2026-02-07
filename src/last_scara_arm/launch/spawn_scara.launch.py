@@ -7,7 +7,7 @@ def generate_launch_description():
 
     robot_description = Command([
         'xacro ',
-        '/home/justinodasilva/arm/src/last_scara_arm/urdf/scara.urdf.xacro'
+        '<path>/src/last_scara_arm/urdf/scara.urdf.xacro'
     ])
     
 
